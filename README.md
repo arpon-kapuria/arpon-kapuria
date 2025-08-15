@@ -1,10 +1,12 @@
-## Hi there 👋
+### Hi there 👋
+
+
+I'm a Computer Science graduate on paper and a traveler at heart. I find joy in problem solving and building intelligent systems. 
+Outside work, I love to travel, write and explore new places.
+
+📫 Feel free to reach out if you’re up for a collaboration or just want to chat.
 
 <!--
-**arpon-kapuria/arpon-kapuria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
