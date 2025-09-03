@@ -8,6 +8,9 @@ Outside work, I love to travel, write and explore new places.
 
 📊 Languages & Lines of Code ...
 <!--START_CODE_SUMMARY-->
+YAML - 37
+Markdown - 5
+SUM - 42
 <!--END_CODE_SUMMARY-->
 
 <!--
