@@ -3,7 +3,10 @@ name: Code Summary
 on:
   push:
     branches:
-      - main  
+      - main
+
+permissions:
+  contents: write  
 
 jobs:
   code-summary:
@@ -11,6 +14,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }} 
 
       - name: Install cloc
         run: sudo apt-get update && sudo apt-get install -y cloc
@@ -28,6 +33,7 @@ jobs:
             {print}
           ' README.md > README_tmp.md
           mv README_tmp.md README.md
+          rm code_summary.txt   # ✅ cleanup
 
       - name: Commit changes
         run: |
