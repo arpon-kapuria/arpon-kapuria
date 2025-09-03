@@ -1,0 +1,38 @@
+name: Code Summary
+
+on:
+  push:
+    branches:
+      - main  
+
+jobs:
+  code-summary:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install cloc
+        run: sudo apt-get update && sudo apt-get install -y cloc
+
+      - name: Generate summary
+        run: |
+          cloc --csv --quiet . | tail -n +2 | awk -F, '{print $2 " - " $5}' > code_summary.txt
+
+      - name: Update README.md
+        run: |
+          summary=$(cat code_summary.txt)
+          awk -v summary="$summary" '
+            /<!--START_CODE_SUMMARY-->/ {print; print summary; next}
+            /<!--END_CODE_SUMMARY-->/ {print; next}
+            {print}
+          ' README.md > README_tmp.md
+          mv README_tmp.md README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update code summary [skip ci]" || echo "No changes to commit"
+          git push
