@@ -6,13 +6,6 @@ Outside work, I love to travel, write and explore new places.
 
 📫 Feel free to reach out if you’re up for a collaboration or just want to chat !
 
-📊 Languages & Lines of Code ...
-<!--START_CODE_SUMMARY-->
-YAML - 37
-Markdown - 5
-SUM - 42
-<!--END_CODE_SUMMARY-->
-
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
