@@ -2,7 +2,7 @@
 
 
 I'm a Computer Science graduate on paper and a traveler at heart. I find joy in problem-solving and building intelligent systems. 
-Outside work, I love to travel, write and explore new places.
+Outside work, I love to travel, write and explore new food spots.
 
 📫 Feel free to reach out if you’re up for a collaboration or just want to chat !
 
