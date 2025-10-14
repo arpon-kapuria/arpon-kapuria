@@ -7,7 +7,7 @@ I’m currently working as a Research Assistant at [AMIR Lab ↗](https://amirl.
 
 - 🎓 I graduated from NIT Trichy, India, where I spent four beautiful years in South India.  
 - 💻 I like exploring AI/ML tech stacks and solving problems on various competitive programming platforms.  
-- 🌱 Outside work, I love to travel, write, explore food spots and travel photography - Check out the [Gallery ↗](https://arpon-kapuria.github.io/gallery) page on my website.
+- 🌱 Outside work, I love to travel, write, explore food spots and photography - Check out the [Gallery ↗](https://arpon-kapuria.github.io/gallery) page on my website.
 
 ## Research Interests  
 
