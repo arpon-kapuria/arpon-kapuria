@@ -1,7 +1,7 @@
 ## Hi there! 👋  
 
 I'm Arpon, a Computer Science graduate on paper and a traveler at heart. I’m currently working as a Researcher at [AMIR Lab ↗](https://amirl.org/).<br>
-Here, you'll find some of the projects I have worked on and a few no-use code samples...
+You'll find here some of the projects I have been working on...
 
 ## About Me  
 
