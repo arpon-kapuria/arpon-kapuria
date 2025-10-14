@@ -1,13 +1,13 @@
 ## Hi there! 👋  
 
 I'm Arpon, a Computer Science graduate on paper and a traveler at heart.<br>
-I’m currently working as a Research Assistant at <a href="https://amirl.org/" target="_blank" rel="noopener noreferrer">AMIR Lab</a>. Here, you’ll find some of the projects I’ve been working on.  
+I’m currently working as a Research Assistant at [AMIR Lab ↗](https://amirl.org/). Here, you’ll find some of the projects I’ve been working on.  
 
 ## About Me  
 
 - 🎓 I graduated from NIT Trichy, India, where I spent four beautiful years in South India.  
 - 💻 I like exploring AI/ML tech stacks and solving problems on various competitive programming platforms.  
-- 🌱 Outside work, I love to travel, write, explore food spots and travel photography - check out the <a href="https://arpon-kapuria.github.io/gallery" target="_blank" rel="noopener noreferrer">Gallery</a> page on my website.
+- 🌱 Outside work, I love to travel, write, explore food spots and travel photography - Check out the [Gallery ↗](https://arpon-kapuria.github.io/gallery) page on my website.
 
 ## Research Interests  
 
@@ -26,7 +26,7 @@ Here are some of my ongoing projects. Feel free to explore more in my repositori
 
 💬 Feel free to reach out if you're interested in collaborating or just want to have a chat!  
 
-<a href="https://www.linkedin.com/in/arponkapuria/" target="_blank" rel="noopener noreferrer"><b>LinkedIn</b></a> | <a href="https://arpon-kapuria.github.io" target="_blank" rel="noopener noreferrer"><b>Personal Website</b></a>
+[**LinkedIn ↗**](https://www.linkedin.com/in/arponkapuria/) | [**Personal Website ↗**](https://arpon-kapuria.github.io)
 
 
 <!--
