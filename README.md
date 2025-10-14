@@ -1,31 +1,32 @@
-## Hi there! 👋
+## Hi there! 👋  
 
-I'm Arpon, a Computer Science graduate on paper and a traveler at heart. I am currently working as Reaserch Assistant at AMIR Lab. Here you'll find some of the projects I've been working on.
+I'm **Arpon**, a Computer Science graduate on paper and a traveler at heart. I’m currently working as a **Research Assistant** at [**AMIR Lab**](https://amirl.org/). Here, you’ll find some of the projects I’ve been working on.  
 
-## About Me
+## About Me  
 
-- 🎓 I graduated from NIT Trichy, India, because of which I stayed in South India for 4 years. I am originally from Bangladesh.
-- 💻 I find joy in problem-solving and playing around with AI/ML tech stacks. I spend most of my free time roaming around on problem solving websites.
-- 🌱 Outside work, I love to travel, write, explore new food spots and clicking pictures. (You will find a gallery on my [website](https://arpon-kapuria.github.io/gallery)
+- 🎓 I graduated from **NIT Trichy, India**, where I spent four years in South India. I’m originally from **Bangladesh**.  
+- 💻 I find joy in **problem-solving** and exploring **AI/ML technologies**. Most of my free time goes into solving problems on various competitive programming platforms.  
+- 🌱 Outside of work, I love to **travel**, **write**, **explore new food spots**, and **capture moments** through photography. (You can check out my gallery on my [**website**](https://arpon-kapuria.github.io/gallery)).  
 
-## Research interests
+## Research Interests  
 
-- Generative NLP (Reasoning, Factuality, Controllable Generation)
-- Represetation Learning
-- Human Level AI
-    
-## Projects 
+- Generative NLP (Reasoning, Factuality, Controllable Generation)  
+- Representation Learning  
+- Human-Level AI  
 
-Here are some of my current projects. Feel free to explore more in my repositories!
+## Projects  
 
-- Mental Health Focused LLMs
-- Post Verfication RAG Framework
+Here are some of my ongoing projects. Feel free to explore more in my repositories!  
 
-## Contact 
+- Mental Health–Focused LLMs  
+- Post-Verification RAG Framework  
 
-[LinkedIn](https://www.linkedin.com/in/arponkapuria/) | [Personal Website](https://arpon-kapuria.github.io)
+## Contact  
 
-💬 Feel free to reach out if you're interested in collaborating on something or just want to chat !
+💬 Feel free to reach out if you're interested in collaborating or just want to have a chat!  
+
+[**LinkedIn**](https://www.linkedin.com/in/arponkapuria/) | [**Personal Website**](https://arpon-kapuria.github.io)
+
 
 <!--
 - 🔭 I’m currently working on ...
