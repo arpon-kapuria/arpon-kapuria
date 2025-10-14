@@ -22,7 +22,7 @@ Here are some of my ongoing projects. Feel free to explore more in my repositori
 - Mental Health–Focused LLMs  
 - Post-Verification RAG Framework  
 
-## Contact  
+## Contact with Me
 
 💬 Feel free to reach out if you're interested in collaborating or just want to have a chat!  
 
