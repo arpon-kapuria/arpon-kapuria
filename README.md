@@ -1,10 +1,18 @@
-### Hi there 👋
+### Hi 👋 I am Arpon !
 
 
-I'm a Computer Science graduate on paper and a traveler at heart. I find joy in problem-solving and building intelligent systems. 
-Outside work, I love to travel, write and explore new food spots.
+I'm a Computer Science graduate on paper and a traveler at heart. I find joy in problem-solving and building intelligent systems. Outside work, I love to travel, write and explore new food spots.
+
+🌱 Research interests : Represetation Learning, Generative NLP (Reasoning, Factuality, Controllable Generation), Human Level AI
+    
+🔭 Current projects :
+  - Mental Health Focused LLMs
+  - Post Verfication Framework for Reliable RAG 
 
 📫 Feel free to reach out if you’re up for a collaboration or just want to chat !
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=arpon-kapuria&label=Profile%20views&color=0e75b6&style=flat" alt="arpon-kapuria" />
+</p>
 
 <!--
 - 🔭 I’m currently working on ...
