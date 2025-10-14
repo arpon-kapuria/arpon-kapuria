@@ -26,7 +26,7 @@ Here are some of my ongoing projects. Feel free to explore more in my repositori
 
 💬 Feel free to reach out if you’re interested in collaborating or just want to chat about tech, travel or anything !
 
-[**LinkedIn ↗**](https://www.linkedin.com/in/arponkapuria/) | [**Personal Website ↗**](https://arpon-kapuria.github.io)
+[**Gmail ↗**](mailto:arpkapuria@gmail.com) | [**LinkedIn ↗**](https://www.linkedin.com/in/arponkapuria/) | [**Personal Website ↗**](https://arpon-kapuria.github.io)
 
 
 <!--
