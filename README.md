@@ -20,8 +20,6 @@ I'm Arpon, a Computer Science graduate on paper and a traveler at heart. I’m c
 
 [**Gmail ↗**](mailto:arpkapuria@gmail.com) | [**LinkedIn ↗**](https://www.linkedin.com/in/arponkapuria/) | [**Personal Website ↗**](https://arpon-kapuria.github.io)
 
-[![Hits](https://www.sproul.dev/api/gh-viewer)](https://www.sproul.dev/api/gh-viewer)
-
 
 <!--
 - 🔭 I’m currently working on ...
