@@ -1,7 +1,6 @@
 ## Hi there! 👋  
 
-I'm Arpon, a Computer Science graduate on paper and a traveler at heart. I’m currently working as a Researcher at [AMIR Lab ↗](https://amirl.org/).<br>
-You'll find here some of the projects I have been working on...
+I'm Arpon, a Computer Science graduate on paper and a traveler at heart. I’m currently working as a Researcher at [AMIR Lab ↗](https://amirl.org/).
 
 ## About Me  
 
@@ -15,18 +14,13 @@ You'll find here some of the projects I have been working on...
 - Representation Learning  
 - Human-Level AI  
 
-## Projects  
-
-Here are some of my ongoing projects. Feel free to explore more in my repositories!  
-
-- Mental Health–Focused LLMs  
-- Post-Verification RAG Framework  
-
 ## Contact with Me
 
 💬 Feel free to reach out if you’re interested in collaborating or just want to chat about tech, travel or anything !
 
 [**Gmail ↗**](mailto:arpkapuria@gmail.com) | [**LinkedIn ↗**](https://www.linkedin.com/in/arponkapuria/) | [**Personal Website ↗**](https://arpon-kapuria.github.io)
+
+[![Hits](https://www.sproul.dev/api/gh-viewer)](https://www.sproul.dev/api/gh-viewer)
 
 
 <!--
