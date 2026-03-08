@@ -14,16 +14,16 @@ I'm Arpon, a Computer Science graduate on paper and a traveler at heart. I’m c
 - Representation Learning  
 - Human-Level AI
 
-## WIP
-
-- [scalable-agentic-rag-pipeline](https://github.com/arpon-kapuria/scalable-agentic-rag-pipeline)
-- [agentic-doc-extraction](https://github.com/arpon-kapuria/agentic-doc-extraction)
-
 ## Contact with Me
 
 💬 Feel free to reach out if you’re interested in collaborating or just want to chat about tech, travel or anything !
 
 [**Gmail ↗**](mailto:arpkapuria@gmail.com) | [**LinkedIn ↗**](https://www.linkedin.com/in/arponkapuria/) | [**Personal Website ↗**](https://arpon-kapuria.github.io)
+
+### Work In Progress
+
+- [scalable-agentic-rag-pipeline](https://github.com/arpon-kapuria/scalable-agentic-rag-pipeline)
+- [agentic-doc-extraction](https://github.com/arpon-kapuria/agentic-doc-extraction)
 
 
 <!--
