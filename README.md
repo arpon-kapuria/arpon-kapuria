@@ -20,7 +20,9 @@ I'm Arpon, a Computer Science graduate on paper and a traveler at heart. I’m c
 
 [**Gmail ↗**](mailto:arpkapuria@gmail.com) | [**LinkedIn ↗**](https://www.linkedin.com/in/arponkapuria/) | [**Personal Website ↗**](https://arpon-kapuria.github.io)
 
-### Work In Progress
+---
+
+### 🚧 Work in Progress
 
 - [scalable-agentic-rag-pipeline](https://github.com/arpon-kapuria/scalable-agentic-rag-pipeline)
 - [agentic-doc-extraction](https://github.com/arpon-kapuria/agentic-doc-extraction)
