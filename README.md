@@ -12,7 +12,9 @@ I'm Arpon, a Computer Science graduate on paper and a traveler at heart. I’m c
 
 - Generative NLP (Reasoning, Factuality, Controllable Generation)  
 - Representation Learning  
-- Human-Level AI  
+- Human-Level AI
+
+- Currently busy with this [agentin-rag](https://github.com/arpon-kapuria/scalable-agentic-rag-pipeline) production level project
 
 ## Contact with Me
 
