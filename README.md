@@ -22,7 +22,7 @@ I'm Arpon, a Computer Science graduate on paper and a traveler at heart. I’m c
 
 ---
 
-### 🚧 Work in Progress
+🚧 **Work In Progress**
 
 - [scalable-agentic-rag-pipeline](https://github.com/arpon-kapuria/scalable-agentic-rag-pipeline)
 - [agentic-doc-extraction](https://github.com/arpon-kapuria/agentic-doc-extraction)
