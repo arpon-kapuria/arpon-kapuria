@@ -5,14 +5,16 @@ I'm Arpon, a Computer Science graduate on paper and a traveler at heart. I’m c
 ## About Me  
 
 - 🎓 I graduated from NIT Trichy, India, where I spent four beautiful years in South India.  
-- 💻 I like exploring AI/ML tech stacks and solving problems on various competitive programming platforms.  
+- 💻 I like exploring AI/ML tech stacks and solving problems on various competitive programming platforms.
 - 🌱 Outside work, I love to travel, write, explore food spots and photography - Check out the [Gallery ↗](https://arpon-kapuria.github.io/gallery) page on my website.
+- Also, You will find me spending an embarrassing amount of time on [LeetCode ↗](href="https://leetcode.com/u/arpon_) / [Deep-ML ↗](href="https://www.deep-ml.com/profile/4WGysk4rhvMuA2rWEkH2KaIHTv93) / [LeetGPU ↗](href="https://leetgpu.com/arpon_).
 
 ## Research Interests  
 
 - Generative NLP (Reasoning, Factuality, Controllable Generation)  
 - Representation Learning  
 - Human-Level AI
+
 
 ## Contact with Me
 
