@@ -1,4 +1,4 @@
-### Hi there! 👋  
+Hi there! 👋  
 
 I'm Arpon, a Computer Science graduate on paper and a traveler at heart. I’m currently working as a Researcher at [AMIR Lab ↗](https://amirl.org/).
 
