@@ -7,13 +7,13 @@ I'm Arpon, a Computer Science graduate on paper and a traveler at heart !
 - 🌱 Outside work, I love to travel, write, explore food spots and photography - Check out the [Gallery ↗](https://arpon-kapuria.github.io/gallery) page on my website.
 <br>
 
-Interests
+**Interests**
  
 - RAG / Agentic AI
 - Post Training Workflows
 - Generative NLP (Reasoning, Factuality, Controllable Generation)
 
-Connect with Me
+**Connect with Me**
 
 💬 Feel free to reach out if you’re interested in collaborating or just want to chat about tech, travel or anything !
 <br>
