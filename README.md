@@ -13,11 +13,14 @@ I'm Arpon, a Computer Science graduate on paper and a traveler at heart !
 - Post Training Workflows
 - Generative NLP (Reasoning, Factuality, Controllable Generation)
 
-**Connect with Me**
+
+<br>
 
 💬 Feel free to reach out if you’re interested in collaborating or just want to chat about tech, travel or anything !
-<br>
-[Gmail ↗](mailto:arpkapuria@gmail.com) | [LinkedIn ↗](https://www.linkedin.com/in/arponkapuria/) | [Personal Website ↗](https://arpon-kapuria.github.io)
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square)](mailto:arpkapuria@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/arponkapuria/)
+[![Homepage](https://img.shields.io/badge/Homepage-6D071A?style=flat-square)](https://arpon-kapuria.github.io)
 
 
 
